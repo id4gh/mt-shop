@@ -8,6 +8,8 @@ import com.mayikt.canal.commodity.es.bean.CommodityInfo;
 import com.mayikt.canal.commodity.es.repository.CommodityInfoRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.support.Acknowledgment;
@@ -23,6 +25,8 @@ import org.springframework.stereotype.Component;
 @Component
 @Slf4j
 public class CanalConsumer {
+    Logger log = LoggerFactory.getLogger(CanalConsumer.class);
+
     @Autowired
     private CommodityInfoRepository commodityInfoRepository;
 
