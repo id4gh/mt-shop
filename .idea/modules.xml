@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-elk-kafka-log/mt-elk-kafka-log.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-elk-kafka-log/mt-elk-kafka-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mt-shop.iml" filepath="$PROJECT_DIR$/.idea/mt-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-basics.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-basics-gateway/mt-sp-basics-gateway.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-basics-gateway/mt-sp-basics-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-canal/mt-sp-canal.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-canal/mt-sp-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-canal/mt-sp-canal-cdy/mt-sp-canal-cdy.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-canal/mt-sp-canal-cdy/mt-sp-canal-cdy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-gateway/mt-sp-gateway.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-gateway/mt-sp-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-member-web/mt-sp-member-web.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-member-web/mt-sp-member-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-parent.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-pays-web/mt-sp-pays-web.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-pays-web/mt-sp-pays-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-integral/mt-sp-service-api-integral.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-integral/mt-sp-service-api-integral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/mt-sp-service-api-member.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/mt-sp-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-pay/mt-sp-service-api-pay.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-pay/mt-sp-service-api-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-spike/mt-sp-service-api-spike.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-spike/mt-sp-service-api-spike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-weixin/mt-sp-service-api-weixin.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-weixin/mt-sp-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-base/mt-sp-service-base.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-base/mt-sp-service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-impl.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-integral/mt-sp-service-integral.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-integral/mt-sp-service-integral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-integral-consumer/mt-sp-service-integral-consumer.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-integral-consumer/mt-sp-service-integral-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job/mt-sp-service-job.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job/mt-sp-service-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job/mt-sp-service-job-pay/mt-sp-service-job-pay.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job/mt-sp-service-job-pay/mt-sp-service-job-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-member/mt-sp-service-member.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-member/mt-sp-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/mt-sp-service-member-consumer.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/mt-sp-service-member-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-mq.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-pay/mt-sp-service-pay.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-pay/mt-sp-service-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-pay-consumer/mt-sp-service-pay-consumer.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-pay-consumer/mt-sp-service-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-spike/mt-sp-service-spike.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-spike/mt-sp-service-spike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-weixin/mt-sp-service-weixin.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-weixin/mt-sp-service-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-web.iml" filepath="$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-web.iml" />
+    </modules>
+  </component>
+</project>

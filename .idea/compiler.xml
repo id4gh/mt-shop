@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mt-sp-service-job-pay" />
+        <module name="mt-sp-service-pay" />
+        <module name="mt-sp-basics-gateway" />
+        <module name="mt-sp-pays-web" />
+        <module name="mt-sp-service-weixin" />
+        <module name="mt-sp-service-member-consumer" />
+        <module name="mt-sp-service-pay-consumer" />
+        <module name="mt-sp-service-integral" />
+        <module name="mt-sp-canal-cdy" />
+        <module name="mt-sp-service-base" />
+        <module name="mt-sp-service-api-member" />
+        <module name="mt-sp-service-member" />
+        <module name="mt-sp-service-api-weixin" />
+        <module name="mt-sp-service-integral-consumer" />
+        <module name="mt-sp-service-spike" />
+        <module name="mt-sp-gateway" />
+        <module name="mt-elk-kafka-log" />
+        <module name="mt-sp-service-api-integral" />
+        <module name="mt-sp-service-api-spike" />
+        <module name="mt-sp-service-api-pay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mt-elk-kafka-log" target="1.8" />
+      <module name="mt-sp-basics" target="1.8" />
+      <module name="mt-sp-basics-gateway" target="1.8" />
+      <module name="mt-sp-canal" target="1.8" />
+      <module name="mt-sp-canal-cdy" target="1.8" />
+      <module name="mt-sp-gateway" target="1.8" />
+      <module name="mt-sp-member-web" target="1.8" />
+      <module name="mt-sp-parent" target="1.8" />
+      <module name="mt-sp-pays-web" target="1.8" />
+      <module name="mt-sp-service-api" target="1.8" />
+      <module name="mt-sp-service-api-integral" target="1.8" />
+      <module name="mt-sp-service-api-member" target="1.8" />
+      <module name="mt-sp-service-api-pay" target="1.8" />
+      <module name="mt-sp-service-api-spike" target="1.8" />
+      <module name="mt-sp-service-api-weixin" target="1.8" />
+      <module name="mt-sp-service-base" target="1.8" />
+      <module name="mt-sp-service-impl" target="1.8" />
+      <module name="mt-sp-service-integral" target="1.8" />
+      <module name="mt-sp-service-integral-consumer" target="1.8" />
+      <module name="mt-sp-service-job" target="1.8" />
+      <module name="mt-sp-service-job-pay" target="1.8" />
+      <module name="mt-sp-service-member" target="1.8" />
+      <module name="mt-sp-service-member-consumer" target="1.8" />
+      <module name="mt-sp-service-mq" target="1.8" />
+      <module name="mt-sp-service-pay" target="1.8" />
+      <module name="mt-sp-service-pay-consumer" target="1.8" />
+      <module name="mt-sp-service-spike" target="1.8" />
+      <module name="mt-sp-service-weixin" target="1.8" />
+      <module name="mt-sp-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mt-elk-kafka-log" options="-parameters" />
+      <module name="mt-sp-basics-gateway" options="-parameters" />
+      <module name="mt-sp-canal-cdy" options="-parameters" />
+      <module name="mt-sp-gateway" options="-parameters" />
+      <module name="mt-sp-pays-web" options="-parameters" />
+      <module name="mt-sp-service-api-integral" options="-parameters" />
+      <module name="mt-sp-service-api-member" options="-parameters" />
+      <module name="mt-sp-service-api-pay" options="-parameters" />
+      <module name="mt-sp-service-api-spike" options="-parameters" />
+      <module name="mt-sp-service-api-weixin" options="-parameters" />
+      <module name="mt-sp-service-base" options="-parameters" />
+      <module name="mt-sp-service-integral" options="-parameters" />
+      <module name="mt-sp-service-integral-consumer" options="-parameters" />
+      <module name="mt-sp-service-job-pay" options="-parameters" />
+      <module name="mt-sp-service-member" options="-parameters" />
+      <module name="mt-sp-service-member-consumer" options="-parameters" />
+      <module name="mt-sp-service-pay" options="-parameters" />
+      <module name="mt-sp-service-pay-consumer" options="-parameters" />
+      <module name="mt-sp-service-spike" options="-parameters" />
+      <module name="mt-sp-service-weixin" options="-parameters" />
+    </option>
+  </component>
+</project>

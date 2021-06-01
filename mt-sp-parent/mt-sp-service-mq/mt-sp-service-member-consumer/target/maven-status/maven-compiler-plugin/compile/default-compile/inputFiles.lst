@@ -1,0 +1,5 @@
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/src/main/java/com/mayikt/member/consumer/LoginConsumer.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/src/main/java/com/mayikt/member/consumer/WechatTemplateConsumer.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/src/main/java/com/mayikt/member/consumer/feign/WechatTemplateServiceFeign.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/src/main/java/com/mayikt/member/consumer/AppConsumer.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer/src/main/java/com/mayikt/member/consumer/UniqueLoginConsumer.java

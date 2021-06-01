@@ -1,0 +1,10 @@
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/base/BaseResponse.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/MeiteBeanUtils.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/SimpleDateFormatUtils.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/base/GlobalExceptionHandler.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/constants/Constants.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/DesensitizationUtil.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/MD5Util.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/TokenUtils.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/utils/RedisUtil.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-base/src/main/java/com/mayikt/api/base/BaseApiService.java

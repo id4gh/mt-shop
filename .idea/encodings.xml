@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mt-sp-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-elk-kafka-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-basics-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-basics/mt-sp-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-canal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-canal/mt-sp-canal-cdy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-integral" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-integral" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-impl/mt-sp-service-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-job/mt-sp-service-job-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-integral-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-member-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-service-mq/mt-sp-service-pay-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-member-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mt-sp-parent/mt-sp-web/mt-sp-pays-web" charset="UTF-8" />
+  </component>
+</project>

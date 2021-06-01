@@ -1,0 +1,10 @@
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/dto/req/UserReqDto.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/dto/req/UserLoginWxOpenIdReqDto.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/dto/resp/UserRespDto.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/LoginService.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/JWTLoginService.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/MemberService.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/dto/resp/UserInfoDto.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/dto/req/UserLoginDto.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/UserInfoService.java
+/Users/mayanchao/IdeaProjects/mt-shop/mt-sp-parent/mt-sp-service-api/mt-sp-service-api-member/src/main/java/com/mayikt/api/member/WechatBindingService.java
